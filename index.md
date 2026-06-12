@@ -1,20 +1,19 @@
-# Biografía Profesional
-Breve descripción de tus líneas de investigación principales, intereses técnicos y
-competencias (Modelado Matemático, Optimización, Machine Learning).
+# Professional Biography
+A brief overview of your primary research lines, technical interests, and core competencies (e.g., Numerical Analysis, Scientific Machine Learning (SciML), Mathematical Modeling, and Optimization).
 
-## 📄 Currículum Vitae
+## 📄 Curriculum Vitae
 * [**Descargar en formato PDF (Versión Impresa - Español)**](./cv-latex/CV_Francisco_Garcia_Atienza_es.pdf)
 * [**Download in PDF format (Print Version - English)**](./cv-latex/CV_Francisco_Garcia_Atienza_en.pdf)
 * [**Ladda ner i PDF-format (utskriftsversion - Svenska)**](./cv-latex/CV_Francisco_Garcia_Atienza_sv.pdf)
 
-## 💼 Experiencia Investigadora y Profesional
-* **Rol Actual / Reciente** | Institución/Empresa (Año - Presente)
-* Hito clave o descripción del proyecto de desarrollo/investigación.
-* Algoritmos, metodologías o herramientas implementadas.
+## 💼 Research & Professional Experience
+* **Current / Recent Role** | Institution/Company (Year - Present)
+    * Key milestone or description of the research/development project.
+    * Implemented algorithms, methodologies, or technical tools.
 
-## 🎓 Educación
-* **Máster en Matemáticas** | Lund University (2025)
-* **Grado en Matemáticas** | Lund University (2023)
+## 🎓 Education
+* **M.Sc. in Mathematics** | Lund University (2025)
+* **B.Sc. in Mathematics** | Lund University (2023)
 
-## 🚀 Proyectos Destacados
-* **Proyecto 1:** Breve descripción con enlace a tu repositorio de código.
+## 🚀 Featured Projects
+* **Project 1:** A brief description of the project with a direct link to your code repository.
