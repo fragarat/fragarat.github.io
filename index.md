@@ -13,5 +13,5 @@ competencias (Modelado Matemático, Optimización, Machine Learning).
 * Algoritmos, metodologías o herramientas implementadas.
 
 ## 🎓 Educación
-* **Máster en Matemáticas** | Universidad (Año)
-* **Grado en Matemáticas** | Universidad (Año)
+* **Máster en Matemáticas** | Lund University (2025)
+* **Grado en Matemáticas** | Lund University (2023)
