@@ -15,3 +15,6 @@ competencias (Modelado Matemático, Optimización, Machine Learning).
 ## 🎓 Educación
 * **Máster en Matemáticas** | Lund University (2025)
 * **Grado en Matemáticas** | Lund University (2023)
+
+## 🚀 Proyectos Destacados
+* **Proyecto 1:** Breve descripción con enlace a tu repositorio de código.
