@@ -1,5 +1,5 @@
 # Professional Biography
-A brief overview of my primary research lines, technical interests, and core competencies (e.g., Numerical Analysis, Scientific Machine Learning (SciML), Data Science, Mathematical Modeling, and Optimization).
+A brief overview of my background, primary research lines, technical interests, and core competencies (e.g., Numerical Analysis, Scientific Machine Learning (SciML), Data Science, Mathematical Modeling, and Optimization).
 
 ## 📄 Curriculum Vitae
 * [**Descargar en formato PDF (Versión Impresa - Español)**](./cv-latex/CV_Francisco_Garcia_Atienza_es.pdf)
