@@ -17,6 +17,11 @@ A brief overview of my background, primary research lines, technical interests, 
 
 ## 🚀 Featured Projects
 * **Project 1:** A brief description of the project with a direct link to your code repository.
+* **Project 2:** A brief description of the project with a direct link to your code repository.
+* **Project 3:** A brief description of the project with a direct link to your code repository.
+* **Project 4:** A brief description of the project with a direct link to your code repository.
+* **Project 5:** A brief description of the project with a direct link to your code repository.
+* **Project 6:** A brief description of the project with a direct link to your code repository.
 
 
 
