@@ -1,7 +1,7 @@
 <link rel="icon" type="image/png" href="/assets/faviconf.png">
 <style>
-  body { background-color: #f0f4f8 !important; }
-  header { background-color: #f0f4f8 !important; }
+  body { background-color: #f4f6f8 !important; }
+  header { background-color: #f4f6f8 !important; }
 </style>
 
 # Professional Biography
