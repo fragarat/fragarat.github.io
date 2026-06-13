@@ -1,4 +1,5 @@
 <link rel="icon" type="image/png" href="/assets/favicon.png">
+
 # Professional Biography
 Below you will find a summary of my academic background, primary research lines, technical interests, and core competencies (e.g., Numerical Analysis, Scientific Machine Learning (SciML), Data Science, Mathematical Modeling, and Optimization).
 
