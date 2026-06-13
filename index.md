@@ -1,7 +1,7 @@
 <link rel="icon" type="image/png" href="/assets/faviconf.png">
 <style>
   body, header, .wrapper { 
-    background-color: #f4f6f8 !important; 
+    background-color: #dee8ee !important; 
   }
 </style>
 
