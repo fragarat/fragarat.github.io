@@ -28,7 +28,7 @@ A brief overview of my background, primary research lines, technical interests, 
     * *Core:* High-performance Python framework utilizing Metropolis-Hastings Markov Chain Monte Carlo (MCMC) algorithms on 2D lattices.
     * *Application:* Simulates and visualizes spin configuration dynamics, phase transitions, and energy minimization in ferromagnetic systems under periodic boundary conditions.
 
-* **[Random Forest: Predictive Plant Geo. & Carbon Fluxes](https://github.com/fragarat/RandomForest)**
+* **[Random Forest: Predictive Plant Geography & Carbon Fluxes](https://github.com/fragarat/RandomForest)**
     * *Core:* Machine learning framework evaluating Random Forest Classifiers and Regressors as high-efficiency numerical surrogates for process-based vegetation models (LPJ-GUESS).
     * *Application:* Leverages climatic, edaphic, and geographic datasets to predict macro-scale biome distributions and carbon ecosystem fluxes ($VegC$), testing cross-continental predictability and generalization limits.
 
