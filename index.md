@@ -12,8 +12,8 @@ A brief overview of my background, primary research lines, technical interests, 
     * Implemented algorithms, methodologies, or technical tools.
 
 ## 🎓 Education
-* **M.Sc. in Mathematics** | Lund University (2025)
-* **B.Sc. in Mathematics** | Lund University (2023)
+* **M.Sc. in Mathematics** | Lund University (2023-2025)
+* **B.Sc. in Mathematics** | Lund University (2020-2023)
 
 ## 🚀 Featured Projects
 * **Project 1:** A brief description of the project with a direct link to your code repository.
