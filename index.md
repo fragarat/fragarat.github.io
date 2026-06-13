@@ -23,12 +23,32 @@ A brief overview of my background, primary research lines, technical interests, 
     * *Description:* Explored novel mathematical models for measuring centrality in evolving networks through a continuous-time ODE approach in order to analyze dynamic interactions.
 
 ## 🚀 Featured Projects
-* **Project 1:** A brief description of the project with a direct link to your code repository.
-* **Project 2:** A brief description of the project with a direct link to your code repository.
-* **Project 3:** A brief description of the project with a direct link to your code repository.
-* **Project 4:** A brief description of the project with a direct link to your code repository.
-* **Project 5:** A brief description of the project with a direct link to your code repository.
-* **Project 6:** A brief description of the project with a direct link to your code repository.
+
+* **[MCMC: Monte Carlo Simulation of Potts & Ising Models](https://github.com/fragarat/MCMC)**
+    * *Core:* High-performance Python framework utilizing Metropolis-Hastings Markov Chain Monte Carlo (MCMC) algorithms on 2D lattices.
+    * *Application:* Simulates and visualizes spin configuration dynamics, phase transitions, and energy minimization in ferromagnetic systems under periodic boundary conditions.
+
+* **[Random Forest: Predictive Plant Geo. & Carbon Fluxes](https://github.com/fragarat/RandomForest)**
+    * *Core:* Machine learning framework evaluating Random Forest Classifiers and Regressors as high-efficiency numerical surrogates for process-based vegetation models (LPJ-GUESS).
+    * *Application:* Leverages climatic, edaphic, and geographic datasets to predict macro-scale biome distributions and carbon ecosystem fluxes ($VegC$), testing cross-continental predictability and generalization limits.
+
+* **[Cell Reprogramming: Gene Regulatory Network Simulation](https://github.com/fragarat/CellReprogramming)**
+    * *Core:* Systems biology framework modeling the establishment of cellular pluripotency via a non-linear system of Ordinary Differential Equations (ODEs).
+    * *Application:* Simulates dynamic interactions within the Nanog-Oct4-Tet1 network to test cellular reprogramming strategies, tracking how transient overexpressions drive cells across non-linear bifurcation boundaries.
+
+* **[Numerical Methods for Differential Equations (PDEs & ODEs)](https://github.com/fragarat/PDEs)**
+    * *Core:* Comprehensive suite of advanced computational solvers for complex physical and dynamic systems.
+    * [[Evolution Equations & FDMs]](https://github.com/fragarat/PDEs): Solves time-dependent parabolic/hyperbolic PDEs using advanced implicit/explicit time-stepping integration algorithms to analyze non-linear shock wave formation.
+    * [[Two-Point BVPs & Sturm-Liouville]](https://github.com/fragarat/Schrodinger): Implements Finite Difference Methods (FDM) via sparse matrices to solve the Beam Equation and the Stationary Schrödinger Equation.
+    * [[Adaptive Solvers & Stiffness]](https://github.com/fragarat/OdeStiffness): Codes adaptive numerical ODE solvers designed to handle severe stiffness phenomena in non-linear dynamics.
+
+* **[Analysis of Augmented Krylov Subspace Methods](https://github.com/fragarat/AugmentedKrylov)**
+    * *Core:* High-performance numerical linear algebra framework implementing advanced subspace acceleration techniques based on Yousef Saad's theoretical paradigms (1997).
+    * *Application:* Benchmarks the convergence behaviors of standard, Restarted, Block, and Flexible/Deflated GMRES (DGMRES), analyzing how augmenting Krylov subspaces mitigates stalling effects caused by isolated eigenvalues near the origin.
+
+* **[Non-Linear Least Squares Optimization: Gauss-Newton Method](https://github.com/fragarat/gaussnewton)**
+    * *Core:* Robust, production-ready Python framework implementing the classic Gauss-Newton algorithm paired with a custom Armijo backtracking line search.
+    * *Application:* Guarantees global convergence for fitting non-linear mathematical models to empirical datasets, showcasing clean software architecture and vectorized operations via NumPy.
 
 
 
